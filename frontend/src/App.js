@@ -12,7 +12,7 @@ function App(){
     const handleSubmit = async () => {
         try {
             setLoading(true);
-            const response = await axios.post('https://resuboost.onrender.com', {resumeText});
+            const response = await axios.post('https://resuboost.onrender.com/analyze', {resumeText});
             setSuggestions(response.data.suggestions);
         } catch (error){
             console.error('Error:', error);
