@@ -15,6 +15,16 @@ ResuBoost helps job seekers improve their resumes by analyzing the content and p
 
 ---
 
+## 🚀 Live Demo
+
+🎉 **Try it here → [https://resu-boost.vercel.app](https://resu-boost.vercel.app)**
+
+✅ Paste your resume  
+✅ Get AI-powered suggestions  
+✅ Download them as PDF
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Frontend:** React + TailwindCSS + React-Markdown + jsPDF
@@ -23,7 +33,7 @@ ResuBoost helps job seekers improve their resumes by analyzing the content and p
 
 ---
 
-## 📦 Getting Started
+## 📦 Getting Started (for local development)
 
 ### Prerequisites
 
@@ -42,6 +52,7 @@ Install Frontend
   npm install
   npm start
   ```
+Frontend will run on http://localhost:3000
 
 Install Backend
   ```bash
@@ -58,16 +69,13 @@ Run backend server:
   ```bash
   node server.js
   ```
-Frontend will run on http://localhost:3000 and backend on http://localhost:3001.
 
 ---
 
 ## 📤 Deployment
 
-- **Frontend:** Deploy to Vercel or Netlify (easy for React apps).
-- **Backend:** Deploy to Render or Railway (free/affordable Node.js hosting).
+- **Frontend:**  LIVE on Vercel: https://resu-boost.vercel.app
+- **Backend:** LIVE on Render: https://resuboost.onrender.com
 
-Make sure to set environment variable OPENAI_API_KEY on your backend host.
-
-Update frontend API endpoint (currently localhost:3001) to point to your deployed backend URL.
+The frontend is already configured to use the live backend URL → no changes needed.
 
