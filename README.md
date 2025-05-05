@@ -6,7 +6,7 @@ ResuBoost helps job seekers improve their resumes by analyzing the content and p
 
 ---
 
-## 🚀 Features
+## Features
 
 - Paste your resume and get AI-powered improvement suggestions.
 - Suggestions rendered beautifully with Markdown.
@@ -15,7 +15,7 @@ ResuBoost helps job seekers improve their resumes by analyzing the content and p
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🎉 **Try it here → [https://resu-boost.vercel.app](https://resu-boost.vercel.app)**
 
@@ -25,7 +25,7 @@ ResuBoost helps job seekers improve their resumes by analyzing the content and p
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React + TailwindCSS + React-Markdown + jsPDF
 - **Backend:** Node.js + Express + OpenAI API
@@ -33,7 +33,7 @@ ResuBoost helps job seekers improve their resumes by analyzing the content and p
 
 ---
 
-## 📦 Getting Started (for local development)
+## Getting Started (for local development)
 
 ### Prerequisites
 
@@ -72,7 +72,7 @@ Run backend server:
 
 ---
 
-## 📤 Deployment
+## Deployment
 
 - **Frontend:**  LIVE on Vercel: https://resu-boost.vercel.app
 - **Backend:** LIVE on Render: https://resuboost.onrender.com
