@@ -17,11 +17,11 @@ ResuBoost helps job seekers improve their resumes by analyzing the content and p
 
 ## Live Demo
 
-🎉 **Try it here → [https://resu-boost.vercel.app](https://resu-boost.vercel.app)**
+**Try it here → [https://resu-boost.vercel.app](https://resu-boost.vercel.app)**
 
-✅ Paste your resume  
-✅ Get AI-powered suggestions  
-✅ Download them as PDF
+- Paste your resume
+- Get AI-powered suggestions  
+- Download them as PDF
 
 ---
 
