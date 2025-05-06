@@ -72,7 +72,7 @@ return (
         </div>
       </div>
       <footer className="w-full text-center text-gray-500 text-sm py-6 self-stretch">
-        Built with React, Express, and OpenAI • ResuBoost © {new Date().getFullYear()}
+        Abdulrahman Odejayi. Built with React, Express, and OpenAI • ResuBoost © {new Date().getFullYear()}
       </footer>
     </div>
 );
